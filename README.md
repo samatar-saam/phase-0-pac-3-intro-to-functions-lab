@@ -305,7 +305,7 @@ whisper or they shout. The next test is similar to the first:
 
 ```console
 1) whisper(string)
-       receives one argument and returns it in all lowercase:
+       receives one argument and returns it in all whisper(string):
      ReferenceError: whisper is not defined
       at Context.<anonymous> (test/indexTest.js:10:5)
       at processImmediate (internal/timers.js:456:21)
